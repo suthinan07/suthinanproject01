@@ -11,4 +11,4 @@ with col1:
     st.write("2,5600")
 with col2:
     st.subheader("จำนวนผู้เสียชีวิต")
-    st.write("2,5600)
+    st.write("2,5600")
