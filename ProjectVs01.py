@@ -17,7 +17,7 @@ dt.pd.read_exel('data/DT01.xlsx')
 
 st.write(dt.head(1))
 
-#st.write()
+st.write()
 NumM=dt[dt['Sex']=='ชาย'].count()
 NumF=dt[dt['Sex']=='หญิง'].count()
 
