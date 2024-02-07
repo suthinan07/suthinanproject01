@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd 
 
-st.image('https://www.tqm.co.th/gallery/7212.jpg')
+st.image('https://www.mediasearch.co.th/new_ariticle/img/CCTV-security-article-cctv-camera--12-12-04.jpg')
 st.header("การนำเสนอสถิติการเกิดอุบัติเหตุของประเทศไทย")
 
 col1,col2=st.columns(2)
